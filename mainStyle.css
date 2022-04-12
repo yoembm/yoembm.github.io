@@ -1,0 +1,12 @@
+.class-servicios > div {
+    border: 1px solid grey;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+   
+}
+
+.class-servicios >div >a {
+   
+ 
+}
