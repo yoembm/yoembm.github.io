@@ -2,15 +2,38 @@
     font-size: 100px;
 }
 
-.class-servicios > div {
-    border: 1px solid grey;
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-   
+ul{
+    list-style-type: none;   
+    padding: 10px;
+    margin: 0;
 }
 
-.class-servicios >div >a {
+
+#navbar{
+    background-color: #2b3029;
+    
+}
+
+li{
+  display: inline;  
+}
+
+li a{
    
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: brown;
  
+}
+
+#serviceBlock{
+    display: inline-flex;
+}
+
+.services {
+    width: 250px;
 }
